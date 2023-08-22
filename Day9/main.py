@@ -167,7 +167,10 @@
 # # print(travel_log)
 
 
-from replit import clear
+#from replit import clear
+def clear_screen():
+  import os
+  os.system('clear')
 #HINT: You can call clear() to clear the output in the console.
 from art import logo
 print(logo)
@@ -194,7 +197,4 @@ while not biding_finished:
     biding_finished=True
     find_highest_bidder(bids)
   elif should_continue=="yes":
-    clear()
-
-
-    
+    clear_screen()
