@@ -1,0 +1,5 @@
+amazon | preet@gmail.com | pass@word
+twitter | preet@gmail.com | t@123
+google | preet@gmail.com | asdf@122
+test | preet@gmail.com | test2pass
+pypi | preet@gmail.com | Aem2m$F#xt1E1f5I
