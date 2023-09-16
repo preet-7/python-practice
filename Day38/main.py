@@ -4,7 +4,7 @@ import os
 
 # Your personal data. Used by Nutritionix to calculate calories.
 GENDER = "male"
-WEIGHT_KG = 77
+WEIGHT_KG = 75
 HEIGHT_CM = 187
 AGE = 26
 
